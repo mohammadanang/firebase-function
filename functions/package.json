@@ -16,6 +16,6 @@
   "private": true,
   "devDependencies": {
     "firebase-functions-test": "^0.1.6",
-    "mocha": "^6.0.2"
+    "mocha": "^10.2.0"
   }
 }
